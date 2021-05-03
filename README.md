@@ -2,7 +2,7 @@
 
 **Salesforce-MFA-Login** is a sample project built for logging into the Salesforce Web app with an Email Verification Code.
 
-By replacing your Gmail credentials in the **Read Gmail** test case, the Salesforce URL, and credentials in the **Login** test case, you can use this usage sample for handling multi-factor authentication on the Salesforce Web app.
+By replacing your Gmail credentials in the **Read Gmail** test case, SFDC URL, and credentials in the **Login** test case, you can use this usage sample for handling multi-factor authentication on the Salesforce Web app.
 
 ## Prerequisite
 
