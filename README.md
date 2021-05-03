@@ -22,6 +22,6 @@ Do as follows:
 
 4. Open **Login** test case. In **Script view**, replace the `Salesforce URL` and `credentials` with your SFDC URL and credentials.
 
-5. Open  **Read Gmail** test case. In **Script view**, replace your Gmail credentials in `email` and `password`.
+5. Open  **Read Gmail** test case. In **Script view**, replace your Gmail credentials with `email` and `password`.
 
 6. Click **Run** to execute the test.
