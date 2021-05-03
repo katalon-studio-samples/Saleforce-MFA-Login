@@ -14,18 +14,14 @@ Do as follows:
 
 1. Clone or download **Salesforce-MFA-Login** [here](https://github.com/katalon-studio-samples/Saleforce-MFA-Login).
 
-2. Open the downloaded project on Katalon Studio for executing the tests.
+2. Open the downloaded project on Katalon Studio for executing the test.
 
 3. Log into your Gmail on any browser.
 
     > Only Gmail provider is supported.
 
-4. Open **Login** and **Read Gmail** test case.
+4. Open **Login** test case. In **Script view**, replace the `Salesforce URL` and `credentials` with your SFDC URL and credentials.
 
-    In **Script view**:
+5. Open  **Read Gmail** test case. In **Script view**, replace your Gmail credentials in `email` and `password`.
 
-    - Replace the `Salesforce URL` and `credentials` in the **Login** test case.
-
-    - Replace your Gmail credentials: `email` and `password`  in the **Read Gmail** test case.
-
-5. Click **Run** to execute the tests.
+6. Click **Run** to execute the test.
